@@ -1,4 +1,4 @@
-.NET Developer from Stockholm, Sweden!
+A passionate backend developer from Stockholm,Sweden, but I do dabble in frontend projects as well. 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/christopher-vasankari) 
 
@@ -8,6 +8,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=Chrisvasa&theme=onedark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Chrisvasa&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chrisvasa&theme=onedark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+📫 How to reach me: Either by emailing me at Christophervasankari@gmail.com or visiting my Linkedin profile above.
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
