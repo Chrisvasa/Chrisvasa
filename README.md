@@ -1,3 +1,4 @@
+<h1 align="center">Christopher Vasankari</h1>
 <p align="center">A passionate backend developer from Stockholm, Sweden, but I do dabble in frontend projects as well.</p>
 
 ###
