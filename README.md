@@ -3,6 +3,14 @@
 
 ###
 
+| Progress | Project | Description |
+| ------------- | ------------- | ------------- |
+| 💻| React API Client | A webpage using React to interact with my API |
+| ✅| [C# Minimal API](https://github.com/Chrisvasa/MovieSystem) | Built a database using Entity Framework and then an API to interact with the DB |
+| ✅|  [Pandabank](https://github.com/wettergrund/pandabank) | A group project where we worked in agile teams to build a bank using C# and Postgresql. |
+
+###
+
 <h3 align="center">📫 How to reach me:</h3>
 
 ###
