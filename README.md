@@ -20,7 +20,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisvasa&layout=compact&theme=dark"  />
 </div>
 
 ###
