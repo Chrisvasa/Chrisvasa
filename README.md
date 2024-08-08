@@ -1,7 +1,7 @@
 <h1 align="center">Christopher Vasankari</h1>
 <p align="center">Backend developer from Sweden who is always curious to learn new things.</p>
-<p align="center"> 🔭 I’m currently working on a 2d game made with C++ (OpenGL)</p>
-<p align="center">🌱 I’m currently learning C/C++</p>
+<p align="center"> 🔭 I’m currently working on Advent of Code to get my C# skills back to speed.</p>
+<p align="center">🌱 I’m currently learning C# and networking</p>
 <p align="center">👨‍💻 My latest project is a <a target="_blank" href="https://github.com/Chrisvasa/JavaChat">Chat application</a> made in Java.</p>
 
 
