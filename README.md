@@ -1,6 +1,6 @@
 <h1 align="center">Christopher Vasankari</h1>
 <p align="center">Backend developer from Sweden who is always curious to learn new things.</p>
-<p align="center"> 🔭 I’m currently working on IoT Climate Monitor system.
+<p align="center"> 🔭 I’m currently doing my Internship in an IoT-related company.</p>
 <p align="center">🌱 I’m currently learning C/C++ and ThingsBoard</p>
 <p align="center">👨‍💻 My latest project was a <a href="https://github.com/Chrisvasa/sensor-dashboard">website to show sensor data and measuremenets</a></p>
 
