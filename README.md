@@ -1,14 +1,13 @@
-<h1 align="center">Christopher Vasankari</h1>
-<p align="center">Backend developer from Sweden who is always curious to learn new things.</p>
-<p align="center"> 🔭 I’m currently doing my Internship in an IoT-related company.</p>
-<p align="center">🌱 I’m currently learning C/C++ and ThingsBoard</p>
-<p align="center">👨‍💻 My latest project was a <a href="https://github.com/Chrisvasa/sensor-dashboard">website to show sensor data and measuremenets</a></p>
-
-
+## Heya, I am Christopher 😎
+### I’m currently doing my Internship in an IoT-related company
+- Focus on development of dashboards, remote control of devices, alarm management and optimization of data traffic.
+- Also investigating integration of new sensors and devices into existing systems.
+### My latest project
+[A website](https://github.com/Chrisvasa/sensor-dashboard) to show sensor data and their measurements with historic graphs.
 ###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chrisvasa&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact"  />
 </div>
 
